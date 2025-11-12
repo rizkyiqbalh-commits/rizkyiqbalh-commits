@@ -1,16 +1,39 @@
-## Hi there 👋
+<h2 align="center">Profile</h2>
 
-<!--
-**rizkyiqbalh-commits/rizkyiqbalh-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rizkyiqbalh-commits&color=blue&style=flat-square" alt="Profile views"/>
+</p>
 
-Here are some ideas to get you started:
+<table align="center">
+  <tr>
+    <td><b>Nama</b></td>
+    <td>Rizky Iqbal H</td>
+  </tr>
+  <tr>
+    <td><b>NIM</b></td>
+    <td>250202926</td>
+  </tr>
+  <tr>
+    <td><b>Kelas</b></td>
+    <td>1IKRA</td>
+  </tr>
+  <tr>
+    <td><b>Program Studi</b></td>
+    <td>Informatika</td>
+  </tr>
+  <tr>
+    <td><b>Institusi</b></td>
+    <td>Putra Bangsa University</td>
+  </tr>
+  <tr>
+    <td><b>Email</b></td>
+    <td>rizkyiqbalhisyam@gmail.com</td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tentang
+- Tools: **VS Code**, **Git**, **Google Chrome**
+- Motto: _"Selesaikan apa yang sudah dimulai."_
+- Level: Beginner
