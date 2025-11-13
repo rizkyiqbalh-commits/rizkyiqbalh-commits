@@ -8,7 +8,7 @@
     </tr>
     <tr>
       <th>NIM</th>
-      <td>251002926</td>
+      <td>250202926</td>
     </tr>
     <tr>
       <th>Kelas</th>
