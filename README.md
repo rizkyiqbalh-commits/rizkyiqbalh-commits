@@ -1,4 +1,4 @@
-<h2 align="center">About Me</h2>
+<h2 align="center">Profile</h2>
 
 <div align="center">
   <table border="1" cellspacing="0" cellpadding="8">
