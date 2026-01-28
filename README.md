@@ -39,7 +39,7 @@
 
 ---
 
-### Tentang
+### About
 - Tools: **VS Code**, **Git**, **Google Chrome**
 - Motto: _"Selesaikan apa yang sudah dimulai."_
 - Level: Beginner
