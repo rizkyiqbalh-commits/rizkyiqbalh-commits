@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <th>Instagram</th>
-      <td><a href="https://instagram.com/riz_samm17" target="_blank">@riz_samm17</a></td>
+      <td><a href="https://instagram.com/zky.samm" target="_blank">@zky.samm</a></td>
     </tr>
   </table>
 
